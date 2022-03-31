@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **all things**
 
-- 📫 How to contact me **itsVedant22@gmail.com**
+- 📫 How to contact me **itsvedant22@gmail.com**
 <br><br>
 
 ```py
